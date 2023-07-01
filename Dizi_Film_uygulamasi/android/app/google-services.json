@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "302922177769",
+    "firebase_url": "https://dizifilmoyunu-default-rtdb.firebaseio.com",
+    "project_id": "dizifilmoyunu",
+    "storage_bucket": "dizifilmoyunu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302922177769:android:6a91f4ef83c77a6496e478",
+        "android_client_info": {
+          "package_name": "com.abd.workout_program"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302922177769-almgb8t31hncgcvbl7o3p1rpvradf7vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFC60DcSZo4ntFUpUiQsRJ52dX454ERwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302922177769-almgb8t31hncgcvbl7o3p1rpvradf7vl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
